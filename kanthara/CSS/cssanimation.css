@@ -1,0 +1,44 @@
+div{
+    width: 350px;
+    height: 350px;
+    border: 6px groove orangered;
+    border-radius: 350px;
+    background-color: yellow;
+    animation-name: xyz;
+    animation-duration: 26s;
+    /* animation-delay:; */
+    animation-iteration-count: 2;
+}
+/* @keyframes xyz{
+    from{
+        background-color: yellow;
+    }
+    to{
+        background-color: purple;
+    }
+} */
+/* @keyframes xyz{
+    0%{
+        background-color: aqua;
+    }
+    20%{
+        background-color: black;
+    }
+    45%{
+        background-color: yellow;
+    }
+    72%{
+        background-color: tomato;
+
+    }
+    91%{
+        background-color: mediumseagreen;
+    }
+    100%{
+        background-color: white;
+    }
+} */
+div:hover{
+    transform: rotate(90deg);
+    transform: skew(180deg);
+}

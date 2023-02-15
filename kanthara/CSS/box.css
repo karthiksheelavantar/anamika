@@ -1,0 +1,57 @@
+#grandfather{
+    width: 900px;
+    height: 300px;
+    display: flexbox;
+    justify-content:space-between;
+    align-items: center;
+    background-color: rgb(104, 104, 238);
+    border: 6px solid rgb(194, 250, 110);
+    margin: 200px;
+}
+#grandmother{
+    width: 200px;
+    height: 150px;
+    background-color: aqua;
+    border: 8px solid palevioletred;
+    transition: all 5s ease;
+    background-image: url(../pictures/moneyheist.png);
+    background-repeat: no-repeat;
+    background-size: 200px,300px;
+}
+#grandmother:hover{
+    background-color: rebeccapurple;
+    /* transform: rotate(360deg); */
+    transform: skew(90deg,180deg);
+    /* transform: skewX(180deg);
+    transform: skewY(-90deg); */
+    /* transform: scale(3); */
+    /* transform: scaleX(3); */
+    /* transform: scaleY(3); */
+    /* transform: translate(-400px,-250px); */
+    /* transform: translateX(270px); */
+    /* transform: translateY(-300px); */
+}
+#aa{
+    width: 200px;
+    height: 150px;
+    background-color: red;
+    border: 8px solid yellowgreen;
+    transition: all 5s ease;
+    background-image: url(../pictures/rcb\ logo.webp);
+    background-repeat: no-repeat;
+    background-size: 200px,350px;
+}
+#aa:hover{
+    background-color: rebeccapurple;
+    /* transform: rotate(360deg); */
+    /* transform: skew(90deg,180deg);
+    transform: rotate(180deg); */
+    /* transform: skew(180deg); */
+    /* transform: skewX(135deg); */
+    /* transform: skewY(270deg);
+    transform: scale(3);
+    transform: scaleX(5); */
+    /* transform: scaleY(4.5); */
+    /* transform: translate(150px); */
+    /* transition: cubic-bezier(0.455, 0.03, 0.515, 0.955); */
+}

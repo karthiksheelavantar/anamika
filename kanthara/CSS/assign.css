@@ -1,0 +1,21 @@
+#kk{
+    color: cadetblue;
+    background-color: chartreuse;
+}
+.test{
+    color: darkviolet;
+    background-color: darkslategrey;
+}
+p{
+    color: lightpink;
+    background-color: gold;
+}
+h2,pre,h4{
+    color: blue;
+    background-color: black;
+
+}
+*{
+    color: firebrick;
+    background-color: rgb(245, 8, 154);
+}

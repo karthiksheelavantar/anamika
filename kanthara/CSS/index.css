@@ -1,0 +1,58 @@
+/* #set
+{
+    font-style: italic;
+    color: blue;
+    background-color: brown;
+}
+#demo
+{
+    color: chartreuse;
+    background-color: rgb(103, 16, 179);
+    font-size: 80px;
+}
+.kk
+{
+    color: chocolate;
+    background-color: blue;
+    font-size: 50px;
+    font-style: italic;
+}
+#dd{
+    color: aqua;
+    background-color: darkgreen;
+    font-size: 80px;
+}
+h2{
+    color: deeppink;
+    background-color: dimgray;
+    font-style: unset;
+}
+pre,h2,p{
+    color: darkmagenta;
+    background-color: olive;
+    font-style: italic;
+} */
+/* *{
+    color: rgb(126, 15, 0);
+    background-color: rgb(105, 145, 145);
+}
+.ks{
+    color: coral;
+    background-color: darkblue;
+} */
+/* div h1{
+    color: rgb(43, 255, 0);
+    background-color: firebrick;
+} */
+/* div>h1{
+    color: black;
+    background-color: aqua;
+} */
+/* div+h1{
+    color: indigo;
+    background-color: dimgray;
+} */
+div~h1{
+    color: darkgreen;
+    background-color: firebrick;
+}

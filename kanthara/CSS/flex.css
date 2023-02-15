@@ -1,0 +1,31 @@
+div{
+    width: 2000px;
+    height: 2000px;
+    border: 7px solid purple;
+    display: flex;
+    justify-content: space-between;
+}
+#aa{
+    width: 400px;
+    height: 500px;
+    border: 7px solid purple;
+    background-image: url(../pictures/moneyheist.png);
+    background-repeat: no-repeat;
+    background-size: 400px 500px;
+}
+#bb{
+    width: 400px;
+    height: 500px;
+    border: 7px solid purple;
+    background-image: url(../pictures/kanthara.jpg);
+    background-repeat: no-repeat;
+    background-size: 400px 500px;
+}
+#cc{
+    width: 400px;
+    height: 500px;
+    border: 7px solid purple;
+    background-image: url(../pictures/yjhd.jpg);
+    background-repeat: no-repeat;
+    background-size: 400px 500px;
+}

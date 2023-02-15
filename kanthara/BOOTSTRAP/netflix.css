@@ -1,0 +1,39 @@
+header{
+    background-image: url(../pictures/netflixback.jpg);
+    height: 650px;
+    width: 1350px;
+    opacity: 1;
+}
+div p{
+    font-size: 20px;
+}
+div h1{
+    font-size: 50px;
+}
+body{
+    background-color: black;
+    height: 6000px;
+    width: 1350px;
+}
+#kk{
+    margin: 150px;
+}
+#vv{
+    background-color: red;
+    position: right;
+}
+div span{
+    position: right;
+    
+}
+hr{
+    border-style: groove;
+}
+img{
+    margin-left: 600px;
+}
+article{
+    width: 1350px;
+    height: 500px;
+}
+

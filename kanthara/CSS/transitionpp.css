@@ -1,0 +1,19 @@
+div{
+    width: 500px;
+    height: 550px;
+    border: 60px groove rgb(224, 105, 224);
+    margin-left: 200px;
+    background-color: yellowgreen;
+    background-image: url(../pictures/rcb\ logo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius:100px ;
+    transition: width 8s,height 7s;
+    /* transition-delay: 1s; */
+    transition-timing-function: ease-out;
+}
+div:hover{
+    width: 800px;
+    height: 700px;
+    background-color: mediumslateblue;
+}

@@ -1,0 +1,51 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px yellow, 7px 7px 7px red;
+}
+div{
+    width: 1300px;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    }
+#bb{
+    color: chartreuse;
+    direction: ltr;text-indent: 100px;
+    text-transform: capitalize;
+    white-space: wrap;
+    word-wrap: break-word;
+    word-break: break-all;
+    width: 250px;
+    height: 250px;
+    border: 5px groove gray;
+
+
+}
+#aa{
+    color: chartreuse;
+    direction: ltr;text-indent: 100px;
+    text-transform: capitalize;
+    white-space: wrap;
+    word-wrap: break-word;
+    word-break: break-all;
+    width: 250px;
+    height: 250px;
+    border: 5px groove gray;
+}
+#cc{
+    color: chartreuse;
+    direction: ltr;text-indent: 100px;
+    text-transform: capitalize;
+    white-space: wrap;
+    word-wrap: break-word;
+    word-break: break-all;
+    width: 250px;
+    height: 250px;
+    border: 5px groove gray;
+}
+
+

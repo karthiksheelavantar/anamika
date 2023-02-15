@@ -1,0 +1,16 @@
+div h3{
+    color: rgb(170, 0, 255);
+    background-color: darkseagreen;
+}
+/* div>h3{
+    color: gold;
+    background-color: gray;
+} */
+/* div+h3{
+    color: green;
+    background-color: midnightblue;
+} */
+/* div~h3{
+    color: darkkhaki;
+    background-color: darkslategray;
+} */

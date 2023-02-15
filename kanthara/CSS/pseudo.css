@@ -1,0 +1,53 @@
+/* #true::after{
+    content: "-->true";
+    color: green;
+}
+#false::after{
+    content: "-->false";
+    color: red;
+} */
+
+/* #true::before{
+    content: ">>>true<<<";
+    color: green;
+}
+#false::before{
+    content: ">>>false<<<";
+    color: red;
+} */
+
+/* p::first-letter{
+    background-color: chartreuse;
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+} */
+
+/* p::first-line{
+    background-color: darkblue;
+    color: brown;
+    font-size: 30px;
+    font-weight: bold;
+} */
+
+/* p::selection{
+    background-color: darkblue;
+    color: brown;
+    font-size: 60px;
+    font-weight: bold;
+} */
+
+div{
+    width: 400px;
+    height: 400px;
+    /* border: 30px;
+    border-style: dashed;
+    border-color: blue;
+    border-top-color: yellowgreen; */
+    border: red 30px groove;
+    background-color: aquamarine;
+    border-radius: 50px;
+    border-top-style:dashed ;
+    border-radius: 400px;
+    border-right-style:dotted ;
+}

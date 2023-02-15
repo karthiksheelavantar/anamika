@@ -1,0 +1,45 @@
+#aa
+{
+    width: 1000px;
+    height: 900px;
+    border: 6px groove purple;
+    background-color: violet;
+    margin: 100px;
+
+}
+#bb{
+    width: 150px;
+    height: 200px;
+    border: 5px solid blue;
+    background-color: yellow;
+    object-position: top left;
+    margin: 100px;
+    background-image: url(../pictures/moneyheist.png),url(../pictures/kanthara.jpg),url(../pictures/horror\ pic1.jpg),url(../pictures/puppies.webp),url(../pictures/rcb\ logo.webp);
+    background-repeat: no-repeat;
+    background-size: 150px 200px;
+    background-position: top center,center left,center center,center right,bottom center;
+}
+/* #cc{
+    width: 150px;
+    height: 200px;
+    border: 5px solid blue;
+    position: center center;
+} */
+/* #dd{
+    width: 150px;
+    height: 200px;
+    border: 5px solid blue;
+    background-position: center;
+}
+#ee{
+    width: 150px;
+    height: 200px;
+    border: 5px solid blue;
+    background-position: center;
+}
+#ff{
+    width: 150px;
+    height: 200px;
+    border: 5px solid blue;
+    background-position: center;
+} */
